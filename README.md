@@ -10,5 +10,5 @@ Clone this repository to your local machine:  https://github.com/FREDYK1/UGpytho
 
 Contributions are welcome! Please feel free to submit a pull request.
 
-[APP Preview](ASCII APP.png "This is the ASCII APP")
-
+## App Preview
+<img src="C:\CODING\UGpythonProject\ASCII APP.png" width="200" height="200">
